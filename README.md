@@ -1,6 +1,6 @@
 # Mongodb Databases
 
 
-[replication failover]()
+[replication failover](https://github.com/akhilrajmailbox/Mongodb-Database/blob/master/pdf-files/mongodb-replication-failover.pdf)
 
-[sharding cluster]()
+[sharding cluster](https://github.com/akhilrajmailbox/Mongodb-Database/blob/master/pdf-files/mongodb-sharding-clustering.pdf)
